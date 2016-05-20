@@ -1,0 +1,8 @@
+first:
+  extends:
+    file: ./../common/docker-compose.yml
+    service: first
+  volumes:
+    - "./../../../applications/first:/src/applications/first"
+  env_file:
+    - ./env/example.env

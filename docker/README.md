@@ -1,4 +1,4 @@
-# Docker Compose Boilerplate
+# Docker Compose Instruction
 
 # Setup
 

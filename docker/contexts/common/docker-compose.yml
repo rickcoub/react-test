@@ -1,6 +1,6 @@
 first:
   build: ./../../../applications/first
   ports:
-    - "3030:3000"
+    - "13001:3000"
   env_file:
     - ./env/common.env
